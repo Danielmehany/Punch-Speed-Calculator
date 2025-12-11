@@ -1,0 +1,57 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\danie\OneDrive\Desktop\Speed-Calculator\Board.PcbDoc
+Date     : 2025-11-15
+Time     : 5:45:22 PM
+
+Processing Rule : Clearance Constraint (Gap=0.09mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6mm) (All)
+   Violation between Hole Size Constraint: (0.2mm < 0.3mm) Via (3.85mm,39.45mm) from L1 (SIGNAL) to L4 (SIGNAL) Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.3mm) Via (3.85mm,40.55mm) from L1 (SIGNAL) to L4 (SIGNAL) Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.3mm) Via (4.95mm,39.45mm) from L1 (SIGNAL) to L4 (SIGNAL) Actual Hole Size = 0.2mm
+   Violation between Hole Size Constraint: (0.2mm < 0.3mm) Via (4.95mm,40.55mm) from L1 (SIGNAL) to L4 (SIGNAL) Actual Hole Size = 0.2mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.1mm) Between Pad C1-1(3.465mm,35.433mm) on L1 (SIGNAL) And Pad C1-2(4.445mm,35.433mm) on L1 (SIGNAL) [Top Solder] Mask Sliver [0.017mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.1mm) Between Pad C4-1(6.2mm,35.52mm) on L1 (SIGNAL) And Pad C4-2(6.2mm,36.5mm) on L1 (SIGNAL) [Top Solder] Mask Sliver [0.017mm]
+Rule Violations :2
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:01

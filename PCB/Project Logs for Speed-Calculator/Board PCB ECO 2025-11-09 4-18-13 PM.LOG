@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=DISP-1
+Removed Pin From Net: NetName=+3.3V Pin=DISP-2
+Removed Pin From Net: NetName=SCL Pin=DISP-3
+Removed Pin From Net: NetName=SDA Pin=DISP-4
+Added Component: Designator=DISP(OLED-TH_L27.8-W27.2-P2.54_C9900033791)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230627/763D01F79A90007632F098068C7C8AD9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HS96L03W2C03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C5248080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "0.96?OLED??????IIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Main Control Chip"; Value = "SSD1315"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HS(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HS96L03W2C03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+70?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pixel Resolution"; Value = "128x64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0.96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5248080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HS96L03W2C03"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DISP-1
+Added Pin To Net: NetName=+3.3V Pin=DISP-2
+Added Pin To Net: NetName=SCL Pin=DISP-3
+Added Pin To Net: NetName=SDA Pin=DISP-4

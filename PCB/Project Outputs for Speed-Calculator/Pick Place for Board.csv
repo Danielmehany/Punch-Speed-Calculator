@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\danie\OneDrive\Desktop\Speed-Calculator\Project Outputs for Speed-Calculator\Pick Place for Board.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15-11-25
+Time:       17:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"DISPLAY","HS96L03W2C03","TopLayer","OLED-TH_L27.8-W27.2-P2.54_C9900033791","25.0700","44.4000","0"
+"STM32","BLACK PILL V3 STM32F411","TopLayer","BLACK_PILL_V3","73.3500","32.6200","270"
+"R4","2.2kR","TopLayer","RESC1609X50X30NL10T20","56.1750","44.4000","0"
+"R3","2.2kR","TopLayer","RESC1609X50X30NL10T20","58.9750","44.5000","0"
+"BUZZER","2.7kHz","TopLayer","BUZ-SMD_L9.6-W9.6-LS10.0-R","93.7768","12.8271","90"
+"BATTERY","BH-AAA-B5BA021","TopLayer","BAT-SMD_BH-AAA-B5BA021","32.0000","9.0000","180"
+"IMU","MPU-6050","TopLayer","IS-QFN-24_V","4.4000","40.0000","0"
+"C5","CL31A106KBHNNNE","TopLayer","FP-CL31-IPC_C","70.2759","15.1000","0"
+"C4","CL05B104KO5NNNC","TopLayer","CAPC1050X55X23ML05T13","6.2000","36.0100","90"
+"C1","CL05B104KO5NNNC","TopLayer","CAPC1050X55X23ML05T13","3.9550","35.4330","0"
+"R1","100R","TopLayer","RESC1609X50X30ML8T20","81.0000","10.0000","0"
+"R6","562kR","TopLayer","RESC1608X55X25NL10T15","76.4000","9.7000","270"
+"C6","4.7uF","TopLayer","FP-CL21-IPC_A","66.0000","9.0742","270"
+"D1","SS14","TopLayer","FP-403AE-MFG","86.0000","8.0000","90"
+"Q1","AO3400A","TopLayer","FP-SOT23-MFG","81.0000","4.0000","0"
+"C2","10nF","TopLayer","CAPC2013X75X45LL10T25","8.0000","37.6500","90"
+"C3","2.2nF","TopLayer","FP-C2012-060-0_2-IPC_B","8.6000","41.1000","270"
+"L1","4.7uH","TopLayer","FP-LQM21PH_G0-IPC_C","71.2739","5.0000","180"
+"R5","976kR","TopLayer","FP-AC0603-MFG","74.2000","10.4000","90"
+"R2","0603WAF1003T5E","TopLayer","FP-CRCW0603-HPe3-IPC_C","78.0000","4.3000","90"
+"BOOST","MCP1640T-I/CHY","TopLayer","MCHP-SOT-23-CHY6_N","71.0000","9.3000","180"
+"START","START","TopLayer","FP-PTS645SM43SMTR92LFS-MFG","42.7884","32.9056","90"
